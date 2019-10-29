@@ -72,10 +72,10 @@ and Download the go-psql-demo-webapp project into it
 
 ##  BUILDING ## 
 
-SET PATH=%PATH%;C:\dev\go_installs\Go1.12.12\bin
-SET GOROOT=C:\dev\go_installs\Go1.12.12
-SET GOPATH=C:\projects\github\go-projects
-go.exe build -o go-psql-demo-webapp.exe
+* SET PATH=%PATH%;C:\dev\go_installs\Go1.12.12\bin
+* SET GOROOT=C:\dev\go_installs\Go1.12.12
+* SET GOPATH=C:\projects\github\go-projects
+* go.exe build -o go-psql-demo-webapp.exe
 
 ##  RUNNING ## 
 cd to C:\projects\github\go-projects\src\go-psql-demo-webapp
