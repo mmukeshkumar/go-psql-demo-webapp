@@ -4,8 +4,6 @@ Sample go webapp using postgres as database, Bootstrap for CSS, jQuery for JS
 ## Based of ##
 * https://github.com/EricLau1/Youtube/tree/master/go-webapp
 * Related youtube playlist videos: https://www.youtube.com/playlist?list=PLFXr22TafQUs6JqgVOqst70iLtmGJ8nmc
-* https://cloud.google.com/go/getting-started/using-cloud-datastore
-* https://github.com/GoogleCloudPlatform/golang-samples/tree/steps/getting-started/bookshelf
 * many thanks to : Eric Lau de Oliveira @ https://github.com/EricLau1
 
 ## Tech stack ##
