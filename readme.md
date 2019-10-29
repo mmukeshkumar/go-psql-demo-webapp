@@ -78,7 +78,7 @@ and Download the go-psql-demo-webapp project into it
 * go.exe build -o go-psql-demo-webapp.exe
 
 ##  RUNNING ## 
-cd to C:\projects\github\go-projects\src\go-psql-demo-webapp
-go run app.go
-open http://localhost:8080/
+* cd to C:\projects\github\go-projects\src\go-psql-demo-webapp
+* go run app.go
+* open http://localhost:8080/
 
